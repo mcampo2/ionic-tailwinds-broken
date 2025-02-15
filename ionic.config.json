@@ -1,0 +1,7 @@
+{
+  "name": "ionic-tailwinds-broken",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
